@@ -1,5 +1,7 @@
 <div align="center">
-   Equipe da OBR do sesi de Carapicuiba
+   Tech Ninjas 
+   <br>
+   Equipe de robótica do SESI de Carapicuíba 
 </div>
 
 <div align="center">
