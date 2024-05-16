@@ -3,10 +3,10 @@
 </div>
 
 <div align="center">
-   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=tecNinjasobr&layout=compact&langs_count=12&theme=dracula&bg_color=00000000&border_color=00000000&locale=pt-br">
+   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=tecNinjasobr&layout=compact&langs_count=12&theme=tokyonight&bg_color=00000000&border_color=e9df06&locale=pt-br&icon_color=e9df06">
 
 <br>
-   <img width="450" height="225" src="https://github-readme-stats.vercel.app/api?username=moh4b-z&show_icons=true&theme=dracula&bg_color=00000000&border_color=00000000&rank_icon=github&ring_color=8dd5ed&include_all_commits=true">
+   <img width="450" height="225" src="https://github-readme-stats.vercel.app/api?username=tecNinjasobr&show_icons=true&theme=tokyonight&bg_color=00000000&border_color=e9df06&rank_icon=github&ring_color=8dd5ed&include_all_commits=true&icon_color=e9df06">
    
 </div>
 
